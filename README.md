@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikramsungadi
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning DJANGO
-- 💞️ I know Python,Css,HTML,JavScript
+- 💞️ I know Python,CSS,HTML,JavScript
 - 📫 How to reach me ...
 
 <!---
