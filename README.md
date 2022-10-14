@@ -9,8 +9,8 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="./images/svgcss3.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./images/svg-html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./images/js.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./images/svg%20mysql.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./images/svg-python.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="" target="_blank" rel="noreferrer"> <img src="[./images/svgcss3.svg]" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="[./images/svg-html-5.svg](https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/svg-html-5.svg)" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./images/js.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./images/svg%20mysql.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./images/svg-python.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!---
 Vikramsungadi/Vikramsungadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
