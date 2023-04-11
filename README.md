@@ -1,6 +1,11 @@
 <div  align="center"><img width="500px" align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/logo%20vikram%20final.png" alt="vikramsungadi" /></div>
 <br/>
-<div style ="border-radius:10px" align="center"><img  align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Vikram%20Sungadi%20%20(4).gif" alt="vikramsungadi" /></div>
+<!-- <div style ="border-radius:10px" align="center"><img  align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Vikram%20Sungadi%20%20(4).gif" alt="vikramsungadi" /></div> -->
+<div style ="border-radius:10px" align="center">
+<a href="https://vikram-portfolio.vercel.app/" target="_blank">
+Portfolio
+</a>
+</div>
 
 <br/>
 <br/>
