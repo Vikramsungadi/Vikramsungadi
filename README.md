@@ -1,30 +1,30 @@
-<div  align="center"><a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="500px" align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Github%20banner%201280x640.png" alt="vikramsungadi" /></a></div>
-<br/>
+<div  align="left"><a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="500px" align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Github%20banner%201280x640.png" alt="vikramsungadi" /></a></div>
+<!-- <br/> -->
 <!-- <div style ="border-radius:10px" align="center"><img  align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Vikram%20Sungadi%20%20(4).gif" alt="vikramsungadi" /></div> -->
-<div style ="border-radius:10px" align="center">
+<!-- <div style ="border-radius:10px" align="left">
 <a href="https://vikram-portfolio.vercel.app/"  target="_blank">
 Portfolio
 </a>
-</div>
+</div> -->
 
-<br/>
 <br/>
 
 
 
 - I'm interested in **Web Development**
-- I’m currently learning **Django**
+- I’m currently learning **Nodejs**
 
 - Ask me about anything related to React, JavaScript,  Python, CSS, HTML
 
 <br/>
 
 ### My Skill Set
-
+<br/>
+<br/>
 </td><td valign="top" width="33%">
 
-<div align="center">  
-    <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/tailwindcss.svg" alt="tailwindcss" height="50" /></a>  
+<div align="left">  
+    <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/tailwindcss.svg" alt="tailwindcss" height="50" /></a>  
   <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/react-2.svg" alt="react" height="50" /></a>  
 <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/0b311decc4cb399f2a7a04f3f88b6fc27585b6da/images/python%20svg.svg" alt="Python" height="50" /></a>  
 <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg-javascript.svg" alt="JavaScript" height="50" /></a> 
@@ -39,8 +39,9 @@ Portfolio
 <br/>
 
 ### Connect with me:
-
-<div align="center">
+<br/>
+<br/>
+<div align="left">
 <a href="https://github.com/Vikramsungadi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -54,12 +55,13 @@ Portfolio
 
 <br/>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramsungadi&show_icons=true&locale=en&layout=compact" alt="vikramsungadi" /></div>
+<div align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramsungadi&show_icons=true&locale=en&layout=compact" alt="vikramsungadi" /></div>
 
 <br/>
 
 ### Github Journey
-
-<div align="center"><img width="350px" src="https://github-readme-stats.vercel.app/api?username=Vikramsungadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br/>
+<br/>
+<div align="left"><img width="350px" src="https://github-readme-stats.vercel.app/api?username=Vikramsungadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
