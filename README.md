@@ -24,14 +24,14 @@ Portfolio
 </td><td valign="top" width="33%">
 
 <div align="left">  
-    <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/tailwindcss.svg" alt="tailwindcss" height="50" /></a>  
+    <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/tailwindcss.svg" alt="tailwindcss" height="35" /></a>  
   <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/react-2.svg" alt="react" height="50" /></a>  
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/0b311decc4cb399f2a7a04f3f88b6fc27585b6da/images/python%20svg.svg" alt="Python" height="50" /></a>  
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg-javascript.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/0b311decc4cb399f2a7a04f3f88b6fc27585b6da/images/django.svg" alt="Django" height="50" /></a>  
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg-html-5.svg" alt="HTML5" height="50" /></a>  
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svgcss3.svg" alt="CSS3" height="50" /></a>  
-<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg mysql.svg" alt="MySQL" height="50" /></a>  
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/0b311decc4cb399f2a7a04f3f88b6fc27585b6da/images/python%20svg.svg" alt="Python" height="50" /></a>  
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg-javascript.svg" alt="JavaScript" height="50" /></a> 
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/0b311decc4cb399f2a7a04f3f88b6fc27585b6da/images/django.svg" alt="Django" height="50" /></a>  
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg-html-5.svg" alt="HTML5" height="50" /></a>  
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svgcss3.svg" alt="CSS3" height="50" /></a>  
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg mysql.svg" alt="MySQL" height="50" /></a>  
 </div>
 
 </td></tr></table>
