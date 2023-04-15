@@ -18,10 +18,29 @@ Portfolio
 
 <br/>
 
+
+### My Projects
+
+<td valign="top" width="33%">
+
+<div align="left">  
+
+<a href="https://delicious-restaurants.vercel.app/" target="_blank" style="margin:20px" ><img width="300px" align="center" style="margin:10px" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/delicious.png?raw=true" alt="Delicious Restaurant Website"/></a>
+<a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="300px" align="center" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Portfolio.png?raw=true" alt="Portfolio Website"/></a>
+<a href="https://space-tourism-vikram.netlify.app/" target="_blank"><img width="300px" align="center" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Toursim.png?raw=true" alt="Space Toursim Website"/></a>
+
+
+
+</div>
+
+</td>
+
+
+
 ### My Skill Set
 <br/>
 <br/>
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
 
 <div align="left">  
     <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/eed9d6ef5805064663eef3d604c0e6271e0897f8/images/tailwindcss.svg" alt="tailwindcss" height="35" /></a>  
@@ -34,7 +53,7 @@ Portfolio
 <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/b7092f1023f05dd9d926e4d3a52ca23724d58b45/images/svg mysql.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td>
 
 <br/>
 
