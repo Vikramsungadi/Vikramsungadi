@@ -1,4 +1,4 @@
-<div  align="center"><a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="500px" align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Github%20banner%20640%20x%20320.png" alt="vikramsungadi" /></a></div>
+<div  align="center"><a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="500px" align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Github%20banner%201280x640.png" alt="vikramsungadi" /></a></div>
 <br/>
 <!-- <div style ="border-radius:10px" align="center"><img  align="center" src="https://raw.githubusercontent.com/Vikramsungadi/Vikramsungadi/main/images/Vikram%20Sungadi%20%20(4).gif" alt="vikramsungadi" /></div> -->
 <div style ="border-radius:10px" align="center">
