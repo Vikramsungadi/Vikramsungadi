@@ -25,9 +25,9 @@ Portfolio
 
 <div align="left">  
 
-<a href="https://delicious-restaurants.vercel.app/" target="_blank" style="margin:20px" ><img width="300px" align="center" style="margin:10px" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/delicious.png?raw=true" alt="Delicious Restaurant Website"/></a>
+<a href="https://delicious-restaurants.vercel.app/" target="_blank" style="margin:20px" ><img width="300px" align="center" style="margin:10px" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Delicious%20Restaurant.png?raw=true" alt="Delicious Restaurant Website"/></a>
 <a href="https://vikram-portfolio.vercel.app/" target="_blank"><img width="300px" align="center" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Portfolio.png?raw=true" alt="Portfolio Website"/></a>
-<a href="https://space-tourism-vikram.netlify.app/" target="_blank"><img width="300px" align="center" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Toursim.png?raw=true" alt="Space Toursim Website"/></a>
+<a href="https://space-tourism-vikram.netlify.app/" target="_blank"><img width="300px" align="center" src="https://github.com/Vikramsungadi/Vikramsungadi/blob/main/images/Space-Tourism.png?raw=true" alt="Space Toursim Website"/></a>
 
 
 
