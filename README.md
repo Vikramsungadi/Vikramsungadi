@@ -14,7 +14,7 @@ Portfolio
 - I'm interested in **Web Development**
 - I’m currently learning **Nodejs**
 
-- Ask me about anything related to React, JavaScript,  Python, CSS, HTML
+- Ask me about anything related to Nextjs, Reactjs, tailwindcss, JavaScript, Python, CSS, HTML, Django, SASS
 
 <br/>
 
